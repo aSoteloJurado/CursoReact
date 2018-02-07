@@ -1,0 +1,1 @@
+export {MemberTableComponent}  from './table';
